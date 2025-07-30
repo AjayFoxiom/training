@@ -480,6 +480,11 @@ function Table() {
                     </div>
                 </div>
             </div>
+
+
+            <div>
+                new toLocaleDateString
+            </div>
         </>
     )
 }
